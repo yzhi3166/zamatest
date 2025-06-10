@@ -1,1 +1,1 @@
-# zamatest
+# zamatestCommit 1 line
